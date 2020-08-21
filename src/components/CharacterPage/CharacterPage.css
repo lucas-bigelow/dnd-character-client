@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  max-width: 180px;
+}
+
+.item {
+  flex: 1;
+  margin: 10px;
+}
+
